@@ -1,0 +1,11 @@
+{
+    "name": "Really Simple Chat",
+    "version": "1.0",
+    "description": "Really simple chat using node, socket.io, express and jade",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "Diego Felix"
+}
